@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: 'I’m Quanah Zimmerman, a Communications Manager at Université de Liège with +10 years of experience in the field of journalism, PR and digital communication. I make things clear and understandable. '
-datePublished: '2016-04-25T13:54:24.990Z'
-dateModified: '2016-04-25T13:54:08.383Z'
+description: ''
+datePublished: '2016-04-25T14:02:31.741Z'
+dateModified: '2016-04-25T13:56:31.321Z'
 title: "Hi, I'm Quanah Zimmerman."
 author: []
 authors: []
@@ -25,8 +25,8 @@ _type: Article
 # Hi, I'm Quanah Zimmerman.
 
 > Communications Manager. Digital strategist. Takes pictures. Designs stuff for the web. Typography nerd. Loves coffee, barbecue sauces & vintage guitars. Runs.
-> 
-> Communications
+
+## Communications
 
 I'm Quanah Zimmerman, a Communications Manager at Université de Liège with +10 years of experience in the field of journalism, PR and digital communication. I make things clear and understandable. 
 
