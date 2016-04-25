@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Quanah Zimmerman]]></title>
         <description><![CDATA[Quanah Zimmerman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quanah-zimmerman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 13:54:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 14:02:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quanah-zimmerman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi, I'm Quanah Zimmerman.]]></title>
-            <description><![CDATA[<article><h1>Hi, I'm Quanah Zimmerman.</h1><p>I’m Quanah Zimmerman, a Communications Manager at Université de Liège with +10 years of experience in the field of journalism, PR and digital communication. I make things clear and understandable. </p></article>]]></description>
-            <link>undefinedhi-im-quanah-zimmerman/index.html</link>
+            <description><![CDATA[<h1>Hi, I'm Quanah Zimmerman.</h1>]]></description>
+            <link>https://thegrid.ai/quanah-zimmerman/hi-im-quanah-zimmerman/index.html</link>
             <guid isPermaLink="false">fb08bf53-1ffd-47ba-ac6f-551e4a933661</guid>
-            <pubDate>Mon, 25 Apr 2016 13:54:24 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 14:02:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
