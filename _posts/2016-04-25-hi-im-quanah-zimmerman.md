@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T14:03:48.180Z'
-dateModified: '2016-04-25T14:03:02.272Z'
+datePublished: '2016-04-26T13:42:36.738Z'
+dateModified: '2016-04-25T14:03:57.063Z'
 title: "Hi, I'm Quanah Zimmerman."
 author: []
 sourcePath: _posts/2016-04-25-hi-im-quanah-zimmerman.md
