@@ -1,7 +1,7 @@
 name: Quanah Zimmerman
 favicon: null
-layout_spectrum: 0.51011
-typography_spectrum: 0.51319
+layout_spectrum: 0.72651
+typography_spectrum: 0.70084
 title: "Quanah Zimmerman's blog"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#b0c9de'
     - '#638aac'
     - '#3f4a52'
-  brandStrength: 0.8125
+  brandStrength: 1
   lightness: 0.75
   saturation: 0.5
-  rhythmicContrast: 0.39839040650986135
+  rhythmicContrast: 0.75
 purpose: []
